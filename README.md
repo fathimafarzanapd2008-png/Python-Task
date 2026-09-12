@@ -6,7 +6,7 @@
 Display my digital identity using Python.
 
 ### Output Screenshot
-![Task 1 Output](screenshot.png)
+![Task 1 Output](Task_1_screenshot.png)
 
 ### Code
 'Task_01_My_Digital Identity.ipnyb'
