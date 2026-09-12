@@ -16,7 +16,7 @@ Display my digital identity using Python.
 ## Task 02: Student Profile Manager
 
 ### Description
-A Python script utilizing dynamic input functions to capture student details and display a structured profile card formatted with f-strings.
+Takes user input for student details and prints a formatted profile card
 
 ### Output Screenshot
 ![Task 02 Output](Task_2_Screenshot.png)
