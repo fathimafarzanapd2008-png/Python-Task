@@ -32,3 +32,12 @@ Generates a formatted, text-based resume using interactive user inputs.
 ![Task 3 Output](Task_3_Screenshot.png)
 
 *Code:* 'Task_03_Resume_Generator.ipynb'
+
+---
+
+## Task 04: Word $ Character Counter
+Analyse users text input to calculate character counts, word counts, and sentence estimates.
+
+![Task 4 Output](Task_4_Screenshot.png)
+
+*Code:* 'Task_04_Word_character_Counter.ipynb'
