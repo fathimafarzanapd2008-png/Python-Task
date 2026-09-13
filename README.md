@@ -23,3 +23,12 @@ Takes user input for student details and prints a formatted profile card
 
 ### Code
 'Task_02_student_Profile_Manager.ipynb'
+
+---
+
+## Task 03: Dynamic Resume Generator 
+Generates a formatted, text-based resume using interactive user inputs.
+
+![Task 3 Output](Task_3_Screenshot.png)
+
+*Code:* 'Task_03_Resume_Generator.ipynb'
