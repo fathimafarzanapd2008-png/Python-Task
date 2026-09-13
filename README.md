@@ -41,3 +41,12 @@ Analyse users text input to calculate character counts, word counts, and sentenc
 ![Task 4 Output](Task_4_Screenshot.png)
 
 *Code:* 'Task_04_Word_character_Counter.ipynb'
+
+---
+
+## Task 05: Simple Calculator
+Performs basic arithmetic operations based on dynamic user selection.
+
+![Task 5 Output](Task_5_Screenshot.png)
+
+*Code:* 'Task_05_Simple_Calculator.ipynb'
